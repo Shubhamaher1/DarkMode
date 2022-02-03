@@ -2,3 +2,14 @@
   font-family: sans-serif;
   text-align: center;
 }
+button {
+  width: 30px;
+  height: 30px;
+  margin: 20px;
+  border-radius: 20px;
+}
+.box {
+  width: 400px;
+  height: 400px;
+  background-color: blueviolet;
+}
