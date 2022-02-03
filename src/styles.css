@@ -7,9 +7,10 @@ button {
   height: 30px;
   margin: 20px;
   border-radius: 20px;
+  cursor: pointer;
 }
 .box {
-  width: 400px;
+  width: 500px;
   height: 400px;
   background-color: blueviolet;
 }
